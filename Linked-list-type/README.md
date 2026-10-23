@@ -12,6 +12,4 @@ Linked list is a organization of nodes where nodes is a self referential structu
 Linked list can have loops/ cycle which can be found by floyd's method
 In loop the last node contains the address of any previous or its own address
 linked list can be made by stack, queue, list etc</pre>
-<table>
-  <tr><th>Info</th><th>Next</th>----><th>Info</th><th>Next</th></tr>
-</table>
+
